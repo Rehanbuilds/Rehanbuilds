@@ -3,7 +3,7 @@
 🚀 Builder | Indie Hacker | SaaS Enthusiast  
 I build useful products, share learnings, and ship fast.
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MRehan_5)(https://x.com/MRehan_5)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MRehan_5)](https://x.com/MRehan_5)
 
 
 ---
